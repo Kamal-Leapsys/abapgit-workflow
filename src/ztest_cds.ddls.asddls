@@ -7,6 +7,7 @@
 define view Ztest_CDS as select from vbak as so
 {
     key so.vbeln              as SalesOrder,
-        so.auart          as SalesOrderType        
+        so.auart          as SalesOrderType,
+        so.autlf            as kamal_kushwaha    
 }
    
