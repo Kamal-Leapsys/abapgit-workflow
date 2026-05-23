@@ -5,7 +5,7 @@
    <DDLS>
     <DDLNAME>ZTEST_CDS</DDLNAME>
     <DDLANGUAGE>E</DDLANGUAGE>
-    <DDTEXT>test CDS</DDTEXT>
+    <DDTEXT>Ztest_CDS</DDTEXT>
     <SOURCE_TYPE>V</SOURCE_TYPE>
    </DDLS>
   </asx:values>
